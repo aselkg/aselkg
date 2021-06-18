@@ -1,5 +1,5 @@
-Hi there, I am Asel and I live in Austin 👋
-I am a Front End Developer👩‍💻
+#Hi there, I am Asel and I live in Austin 👋
+##I am a Front End Developer👩‍💻
 
 A little more about me...
 const asel = {
