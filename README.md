@@ -2,11 +2,11 @@
 ## I am a Front End Developer👩‍💻
 
 *A little more about me...*
-```
+```diff
 const asel = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Vue.js, React],
-  interest: [Tennis, Hicking, Cooking],
+  interest: [Tennis, Hiking, Cooking],
   passion: [Coding, Family],
 }
 ```
