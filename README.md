@@ -6,7 +6,7 @@
 const asel = {
   pronouns: "she" | "her",
   code: [Javascript, Python, Vue.js, React, Cypress.js],
-  interest: [Tennis, Hiking, Cooking],
+  interest: [Hiking, Tennis, Cooking],
   passion: [Coding, Family],
 }
 ```
